@@ -1,0 +1,110 @@
+---
+content_type: page
+description: This syllabus section provides information on course meeting times, instructors,
+  prerequisites, the required textbook, readings, and films, and grading.
+learning_resource_types: []
+ocw_type: CourseSection
+title: Syllabus
+uid: 1dea76ca-f22a-7c32-7f35-40609c909c73
+---
+
+Course Meeting Times
+--------------------
+
+Lectures: 2 sessions / week, 1.5 hours / session
+
+Recitations: 1 session / week, 1 hour / session
+
+Instructors
+-----------
+
+Prof. Esther Duflo (first half of semester)
+
+Prof. Abhijit V. Banerjee (second half of semester)
+
+Prerequisites
+-------------
+
+There are no prerequisites for this course. However, economics is a mathematical science so math will appear, in small doses, in two forms. First, this course is empirically-oriented, so almost all of the required readings and lectures will, at times, use elementary statistics to describe the world. In addition, a handful of the required readings will use more advanced statistical tools (such as correlations and regressions) to dig deeper into the data. However, the recitations for this course will go over these more advanced concepts in detail, so no prior knowledge is required. Second, the lectures will occasionally discuss simple mathematical models that economists find helpful to describe some aspects of the data. The intuition behind these models will, however, always be made clear, and can be used as a substitute (for the purposes of your understanding, and when answering exam questions) for mathematics.
+
+Text, Films, and Readings
+-------------------------
+
+### Required Textbook
+
+Banerjee, Abhijit, and Esther Duflo. _Poor Economics: A Radical Rethinking of the Way to Fight Global Poverty_. PublicAffairs, 2011. ISBN: 9781586487980.
+
+We will also rely on articles and chapters of other books. Required readings are starred and need to be read _before_ the lecture that they are listed under. Additional readings are not required, but will aid your understanding of the lecture material. Lecture notes will be distributed at each lecture. They are _not_ a substitute for attending the class, but rather a study aide. In order to motivate some of the issues discussed in the lectures and readings, we will watch a handful of short films during some of the lectures, listed in the calendar.
+
+Grading
+-------
+
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Pop quizzes
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final exam
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Written assignments
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
+
+{{% resource_link d51ca8b0-f3ab-4672-e497-e734b8e41bf7 "Grading rubric for written assignments (PDF)" %}}
+
+### Pop Quizzes
+
+Thirty points of the grade will be based on pop quizzes, which will take place in the lectures on randomly chosen occasions. These will be short, multiple-choice quizzes that are designed to test that you have completed the required reading for each lecture before each lecture. Attendance at lectures is compulsory and any missed quizzes will receive a grade of zero.
+
+### Final Exam
+
+Forty points of the grade will be based on a final exam to be administered in final exam week. The exam will be based on the required readings throughout the year as well as the lecture material covered in class and recitations. It will be a mixture of multiple choice and written questions, and take three hours or less.
+
+### Written Assignments
+
+Thirty points of the grade will be based on five short written assignments that you will be expected to hand in to the TA at recitations. Each written assignment will be approximately 500 words in length, and should be focused on a lecture's required reading material. The course material described above is broken down into 26 lectures organized around 10 topics (Introduction, Consumption, Education, Health, Family, Insurance, Credit, Savings, Entrepreneurship, and Political economy). There will be one written assignment proposed, therefore, per topic. The assignment for each topic is due by the first recitation to occur after the last lecture that covers that topic. Your grade on these written assignments will be based on the best five written assignments that you submit over the year.
+
+The subject of these written assignments can be either: (a) your answer to a question that has been suggested by the TA on each lecture's required reading; or (b), an opinion piece on a topic of your choice (be sure it's something you find interesting) related to the lecture's required reading (feel free to discuss this in advance with your TA if you like). In either case, you are expected to state a thesis up front, discuss why your reader should care about the topic you've chosen, and argue in favor of it. A book report or other type of non-critical summary is not acceptable. These assignments are to be completed individually and in your own words.
+
+Because 500 words is very short your written argument should be concise and punchy, and be high on content and opinion. It will take some time to compose one possible strategy is to write a 1000 word piece and edit it down to 500 words so that you are left with only the essential argument.
+
+Examples of Potential Paper Topics
+
+*   Foreign aid should be limited to countries with good governance.
+*   The one dollar-a-day poverty standard is misleading and should be abandoned.
+*   Local accountability is critical to providing effective education.
+*   National standards, funding, and accountability are the keys to improving education.
+*   Microfinance institutions need to be closely regulated.
+*   Excessive regulation will kill microfinance.
