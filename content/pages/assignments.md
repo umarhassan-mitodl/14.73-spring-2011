@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: This section provides the writing assignments for the course.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -147,4 +149,4 @@ Political Economy
 
 {{< tableclose >}}
 
-See sample essays from students on the {{% resource_link "717dac7e-0206-49d1-9421-7edd2e021be6" "_Poor Economics_" %}} website.
+See sample essays from students on the [_Poor Economics_](http://pooreconomics.com/teaching-book?page=4) website.

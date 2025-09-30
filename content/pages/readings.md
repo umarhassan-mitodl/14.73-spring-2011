@@ -3,6 +3,8 @@ content_type: page
 description: This section provides the schedule of required and optional readings
   by lecture session and topic.
 draft: false
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -41,11 +43,11 @@ Introduction II: What is a poverty trap?
 Introduction III: Learning what works: The role of experiments
 {{< tdclose >}}{{< tdopen >}}
 
-\*Rodrik, Dani. "{{% resource_link "3e9be5de-4004-4440-85e8-21d4120e34ec" "Jeff Sachs Vindicated" %}}." Dani Rodrik's weblog. January 15, 2008. Post and discussion.
+\*Rodrik, Dani. "[Jeff Sachs Vindicated](http://rodrik.typepad.com/dani_rodriks_weblog/2008/01/jeff-sachs-vind.html)." Dani Rodrik's weblog. January 15, 2008. Post and discussion.
 
-\*Over, Mead. "{{% resource_link "634f54ff-d7aa-4df8-97be-446c35020281" "Jeff Sachs Not Vindicated" %}}." Global Health Policy Blog. January 18, 2008. Post and discussion.
+\*Over, Mead. "[Jeff Sachs Not Vindicated](https://www.cgdev.org/blog/sachs-not-vindicated)." Global Health Policy Blog. January 18, 2008. Post and discussion.
 
-Kristof, Nicholas. "{{% resource_link "ff52358f-eaa2-4a6e-9a57-b131e813738b" "George Clooney Answers Your Questions about Malaria" %}}," *The New York Times*, February 8, 2011.
+Kristof, Nicholas. "[George Clooney Answers Your Questions about Malaria](http://kristof.blogs.nytimes.com/2011/02/08/george-clooney-answers-your-questions-about-malaria/)," *The New York Times*, February 8, 2011.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Consumption**
@@ -57,7 +59,7 @@ Food I: The nature of famine
 
 \* Sen, Amartya. "The Great Bengal Famine." In *Poverty and Famines: An Essay on Entitlement and Deprivation*. Oxford University Press, 1983. ISBN: 9780198284635.
 
-Krugman, Paul. "{{% resource_link "65d3e5f0-a0e4-4ad7-8043-e4cd0854012b" "Droughts, Floods and Food" %}}," *The New York Times*, February 6, 2011.
+Krugman, Paul. "[Droughts, Floods and Food](http://www.nytimes.com/2011/02/07/opinion/07krugman.html)," *The New York Times*, February 6, 2011.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
@@ -67,7 +69,7 @@ Food II: Is there a nutrition based trap-the demand for food and calories
 
 \*Chapter 2 in \[Poor Economics\]. pp. 22–8.
 
-\*Levitt, Steven D. "The Indiana Jones of Economics, {{% resource_link "f0d813c8-ceb9-4a44-9328-66e1c96c6eff" "Part I" %}}, {{% resource_link "550c589d-b283-4059-9974-05e86cd092a9" "Part II" %}}, {{% resource_link "b503bd49-6c13-401c-85c3-b6dfd418d26d" "Part III" %}}." Freakonomics.com. May 7, 2008.
+\*Levitt, Steven D. "The Indiana Jones of Economics, [Part I](http://www.freakonomics.com/2008/05/05/the-indiana-jones-of-economics-part-i/), [Part II](http://www.freakonomics.com/2008/05/06/the-indiana-jones-of-economics-part-ii/), [Part III](http://www.freakonomics.com/2008/05/07/the-indiana-jones-of-economics-part-iii/)." Freakonomics.com. May 7, 2008.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
@@ -82,7 +84,7 @@ Food III: Is there a nutrition based poverty trap-the hidden trap
 {{< tdclose >}}{{< tdopen >}}
 Health I: Delivering healthcare, a case study from India
 {{< tdclose >}}{{< tdopen >}}
-\*Banerjee, Abhijit, and Esther Duflo. {{% resource_link "56a56be8-204f-494e-9361-e8be2e4b8894" "\"Improving Health Care Delivery in India: Udaipur Case Study.\" (PDF - 1.4MB)" %}}
+\*Banerjee, Abhijit, and Esther Duflo. ["Improving Health Care Delivery in India: Udaipur Case Study." (PDF - 1.4MB)](https://economics.mit.edu/sites/default/files/publications/Improving%20Health%20Care%20Delivery%20in%20India_%20Nov2009.p.pdf)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
 {{< tdclose >}}{{< tdopen >}}
@@ -97,16 +99,16 @@ Chapter 3 in \[Poor Economics\].
 Education I: Setting the stage
 {{< tdclose >}}{{< tdopen >}}
 
-{{% resource_link "c07ba3bd-f88c-4b71-9ab8-428431cbed1f" "![Buy at MIT Press](/images/mp_logo.gif)" %}} \* Easterly, William. "Educated for What?" In {{% resource_link "c07ba3bd-f88c-4b71-9ab8-428431cbed1f" "*The Elusive Quest for Growth: Economists' Adventures and Misadventures in the Tropics*" %}}. MIT Press, 2002. ISBN: 9780262550420.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262550420) \* Easterly, William. "Educated for What?" In [*The Elusive Quest for Growth: Economists' Adventures and Misadventures in the Tropics*](https://mitpress.mit.edu/9780262550420). MIT Press, 2002. ISBN: 9780262550420.
 
-\* Case, Anne. "The Primacy of Education." In *Understanding Poverty*. Edited by Abhijit V. Banerjee, Roland Benabou, and Dilip Mookherjee. Oxford University Press, 2006. ISBN: 9780195305203. \[Preview with {{% resource_link "64260b8a-fcea-4eef-bdae-a85f46b76007" "Google Books" %}}\]
+\* Case, Anne. "The Primacy of Education." In *Understanding Poverty*. Edited by Abhijit V. Banerjee, Roland Benabou, and Dilip Mookherjee. Oxford University Press, 2006. ISBN: 9780195305203. \[Preview with [Google Books](http://books.google.com/books?id=qVNLt3Cei1EC&pg=PA271#v=onepage)\]
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
 {{< tdclose >}}{{< tdopen >}}
 Education II: How to make schools work for the poor: Pratham's experience
 {{< tdclose >}}{{< tdopen >}}
-\*Banerjee, Abhijit, Shawn Cole, et al. "{{% resource_link "96e06521-32ab-428c-9458-870d1d087622" "Remedying Education: Evidence from Two Randomized Experiments in India" %}}." *The Quarterly Journal of Economics* 122, no. 3 (2007): 1235–64.
+\*Banerjee, Abhijit, Shawn Cole, et al. "[Remedying Education: Evidence from Two Randomized Experiments in India](https://academic.oup.com/qje/article/122/3/1235/1879525)." *The Quarterly Journal of Economics* 122, no. 3 (2007): 1235–64.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
 {{< tdclose >}}{{< tdopen >}}
@@ -129,7 +131,7 @@ Family II: Household model and discrimination against girls
 
 \*Chapter 5 in \[Poor Economics\]. pp. 123–9.
 
-\*Sen, Amartya. "{{% resource_link "a2d6abb2-9dbe-4ad2-b866-7e3a788cdba2" "More Than 100 Million Women Are Missing" %}}." *The New York Review of Books* 37, no. 20 (1990).
+\*Sen, Amartya. "[More Than 100 Million Women Are Missing](http://www.nybooks.com/articles/1990/12/20/more-than-100-million-women-are-missing/)." *The New York Review of Books* 37, no. 20 (1990).
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Insurance**
@@ -138,7 +140,7 @@ Family II: Household model and discrimination against girls
 {{< tdclose >}}{{< tdopen >}}
 Risk and Insurance I
 {{< tdclose >}}{{< tdopen >}}
-\*Besley, Timothy. "{{% resource_link "d227e0f3-fb30-4e97-9fa8-cc485193bc95" "Nonmarket Institutions for Credit and Risk Sharing in Low Income Countries" %}}." *Journal of Economic Perspectives* 9, no. 3 (1995): 115–27.
+\*Besley, Timothy. "[Nonmarket Institutions for Credit and Risk Sharing in Low Income Countries](http://www.jstor.org/discover/10.2307/2138429?uid=3737496&uid=2&uid=4&sid=21101023748713)." *Journal of Economic Perspectives* 9, no. 3 (1995): 115–27.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 15
 {{< tdclose >}}{{< tdopen >}}
@@ -153,11 +155,11 @@ Risk and Insurance II
 Credit I: Microcredit under strain
 {{< tdclose >}}{{< tdopen >}}
 
-Banerjee, Abhijit, et. al. "{{% resource_link "c599acaa-fb9b-466b-b69c-6ab2d5a9b1ed" "Microcredit Is Not the Enemy" %}}," *Financial Times*. December 13, 2010.
+Banerjee, Abhijit, et. al. "[Microcredit Is Not the Enemy](https://www.hks.harvard.edu/publications/microcredit-not-enemy)," *Financial Times*. December 13, 2010.
 
-S. D. "{{% resource_link "050ca8b7-ea9f-48ce-95e3-3797e8271f75" "Big Trouble for Microfinance" %}}," *The Economist*, December 2, 2010.
+S. D. "[Big Trouble for Microfinance](http://www.economist.com/blogs/freeexchange/2010/12/microfinance)," *The Economist*, December 2, 2010.
 
-Yunus, Muhammad. "{{% resource_link "43b386d4-6fde-46d4-8eb3-021b095adc25" "Sacrificing Microcredit for Megaprofits" %}}." *The New York Times*, January 14, 2011.
+Yunus, Muhammad. "[Sacrificing Microcredit for Megaprofits](http://www.nytimes.com/2011/01/15/opinion/15yunus.html?_r=1)." *The New York Times*, January 14, 2011.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 17
@@ -173,7 +175,7 @@ Credit II: The economics of lending to the poor (cont.)
 
 \*Chapter 7 in \[Poor Economics\]. pp. 168–80.
 
-Banjerjee, Abhijit, Esther Duflo, Rachel Glennerster, and Cynthia Kinnan. {{% resource_link "6c7e2568-1e6f-4f8f-9b46-fd75739e2e3c" "\"The Miracle of Microfinance? Evidence from a Randomized Evaluation.\" (PDF)" %}} Working paper, 2009.
+Banjerjee, Abhijit, Esther Duflo, Rachel Glennerster, and Cynthia Kinnan. ["The Miracle of Microfinance? Evidence from a Randomized Evaluation." (PDF)](https://economics.mit.edu/sites/default/files/publications/spandana_Mar14_final.pdf) Working paper, 2009.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Savings**
@@ -211,9 +213,9 @@ The poor and their businesses (cont.)
 Institutions I: The big picture
 {{< tdclose >}}{{< tdopen >}}
 
-\* Acemoglu, Daron, Simon Johnson, and James Robinson. "Understanding Prosperity and Poverty: Geography, Institutions, and The Reversal of Fortune." In *Understanding Poverty*. Edited by Abhijit V. Banerjee, Roland Benabou, and Dilip Mookherjee. Oxford University Press, 2006. ISBN: 9780195305203. \[Preview with {{% resource_link "851d85c5-ffbd-409b-a3cd-944b83d88822" "Google Books" %}}\]
+\* Acemoglu, Daron, Simon Johnson, and James Robinson. "Understanding Prosperity and Poverty: Geography, Institutions, and The Reversal of Fortune." In *Understanding Poverty*. Edited by Abhijit V. Banerjee, Roland Benabou, and Dilip Mookherjee. Oxford University Press, 2006. ISBN: 9780195305203. \[Preview with [Google Books](http://books.google.com/books?id=qVNLt3Cei1EC&pg=PA19#v=onepage)\]
 
-Engerman, Stanley L., and Kenneth Sokoloff. "Colonialism, Inequality and Long-Run Paths of Development." In *Understanding Poverty*. Edited by Abhijit V. Banerjee, Roland Benabou, and Dilip Mookherjee. Oxford University Press, 2006. ISBN: 9780195305203. \[Preview with {{% resource_link "888faff9-c383-421b-8b9b-52cf1c28d795" "Google Books" %}}\]
+Engerman, Stanley L., and Kenneth Sokoloff. "Colonialism, Inequality and Long-Run Paths of Development." In *Understanding Poverty*. Edited by Abhijit V. Banerjee, Roland Benabou, and Dilip Mookherjee. Oxford University Press, 2006. ISBN: 9780195305203. \[Preview with [Google Books](http://books.google.com/books?id=qVNLt3Cei1EC&pg=PA37#v=onepage)\]
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 24

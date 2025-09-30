@@ -36,7 +36,7 @@ At MIT:
 
 - [_14.74 Foundations of Development Policy_](/courses/14-74-foundations-of-development-policy-spring-2009)
 - Majoring in economics
-- Working with other development organizations at MIT (e.g., UROP ![](/images/educator/icon-question-urop.png) for {{% resource_link "4243e377-5f35-4b06-ad44-864e6b74ed51" "J-PAL" %}}, {{% resource_link "26f64f40-d1ae-4797-9781-df3bc2722269" "D-LAB" %}}, {{% resource_link "b25a2a03-2181-4e02-82f8-1f66677dd338" "PKG Fellowships" %}})
+- Working with other development organizations at MIT (e.g., UROP ![](/images/educator/icon-question-urop.png) for [J-PAL](http://www.povertyactionlab.org/), [D-LAB](http://d-lab.mit.edu/), [PKG Fellowships](https://pkgcenter.mit.edu/programs/fellowships/pkg-fellowships/))
 
 After Graduating:
 
@@ -74,7 +74,7 @@ None, although knowledge of statistics can be helpful
 ### Requirements Satisfied
 
 - HASS-S ![](/images/educator/icon-question-hass-s.png)
-- This course can be applied toward a {{% resource_link "0c6e2d2a-73f1-49cf-b16f-61d497acd6ae" "Bachelor of Science in Economics" %}} as a restricted elective, but it is not required.
+- This course can be applied toward a [Bachelor of Science in Economics](http://catalog.mit.edu/degree-charts/economics-course-14/) as a restricted elective, but it is not required.
 
 ### Offered
 

@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides the schedule of lecture topics, films, and videos
   for the course.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
@@ -40,9 +42,9 @@ Introduction: What this class is about
 {{< tdopen >}}
 
 
-{{% resource_link "617a3005-53ba-4f13-9d07-ce7f4ad0f64a" "The diary of Jeffrey Sachs and Angelina Jolie in Africa" %}}.
+[The diary of Jeffrey Sachs and Angelina Jolie in Africa](http://www.youtube.com/watch?v=uUHf_kOUM74).
 
-{{% resource_link "f02e4c04-c96c-49f3-a163-4fa1237cda0f" "Bill Easterly on the failure of aid in Africa" %}}.
+[Bill Easterly on the failure of aid in Africa](https://www.youtube.com/watch?v=vzy8dafM89E).
 
 
 {{< tdclose >}}
@@ -68,7 +70,7 @@ What is a poverty trap?
 Learning what works: The role of experiments
 {{< tdclose >}}
 {{< tdopen >}}
-Esther Duflo's TED Talk. "{{% resource_link "4d907a85-bf71-4f72-973f-6542c9a6ecbb" "Social Experiments to Fight Poverty" %}}."
+Esther Duflo's TED Talk. "[Social Experiments to Fight Poverty](http://www.youtube.com/watch?v=0zvrGiPkVcs)."
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -86,7 +88,7 @@ Esther Duflo's TED Talk. "{{% resource_link "4d907a85-bf71-4f72-973f-6542c9a6ecb
 The nature of famine
 {{< tdclose >}}
 {{< tdopen >}}
-{{% resource_link "fefdbeb9-425d-4c40-8a43-d28ef4cb280a" "_Asani Sanket (Distant Thunder)_" %}}. Directed by Satyajit Ray. India, 1973.
+[_Asani Sanket (Distant Thunder)_](https://www.imdb.com/title/tt0069737/). Directed by Satyajit Ray. India, 1973.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -128,7 +130,7 @@ Is there a nutrition based poverty trap-the hidden trap
 Delivering healthcare, a case study from India
 {{< tdclose >}}
 {{< tdopen >}}
-_{{% resource_link "00392f20-866f-4d00-bc26-27148baf01dd" "The Name of the Disease" %}}._ Directed by Abhijit Banerjee, Arundhati Banerjee, and Bappa Sen. Edited by Sumit Ghosh. 2006.
+_[The Name of the Disease](http://www.youtube.com/watch?v=FE7iH_GSxJU)._ Directed by Abhijit Banerjee, Arundhati Banerjee, and Bappa Sen. Edited by Sumit Ghosh. 2006.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -158,7 +160,7 @@ Low hanging fruit: Understanding healthcare behavior in developing countries
 Setting the stage
 {{< tdclose >}}
 {{< tdopen >}}
-{{% resource_link "439baa59-2899-47a4-ac1c-94e2d640d945" "_Educating Yaparak_" %}}. Directed by Di Tatham. Bullfrog Films, 2005.
+[_Educating Yaparak_](http://www.youtube.com/watch?v=axT4w8-BxGg). Directed by Di Tatham. Bullfrog Films, 2005.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -272,7 +274,7 @@ Insurance
 The (not so simple) economics of lending to the poor
 {{< tdclose >}}
 {{< tdopen >}}
-{{% resource_link "929377de-fa01-4e25-a4e0-4300cbe6c897" "_Credit Where Credit Is Due_" %}}. Directed by Ashley Bruce. Bullfrog Films, 2000.
+[_Credit Where Credit Is Due_](http://www.bullfrogfilms.com/catalog/lscred.html). Directed by Ashley Bruce. Bullfrog Films, 2000.
 {{< tdclose >}}
 
 {{< trclose >}}
