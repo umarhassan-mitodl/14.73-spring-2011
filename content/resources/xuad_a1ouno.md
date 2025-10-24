@@ -4,8 +4,6 @@ description: ''
 file: /courses/14-73-the-challenge-of-world-poverty-spring-2011/2ef60bfb1833ba3eb14d1798383820ae_xuAD_a1OuNo.srt
 file_size: 103641
 file_type: application/x-subrip
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

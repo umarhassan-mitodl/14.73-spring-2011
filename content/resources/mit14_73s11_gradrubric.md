@@ -5,8 +5,6 @@ description: This resource contains information regarding Grading rubric for wri
 file: /courses/14-73-the-challenge-of-world-poverty-spring-2011/d51ca8b0f3ab4672e497e734b8e41bf7_MIT14_73S11_GradRubric.pdf
 file_size: 136934
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

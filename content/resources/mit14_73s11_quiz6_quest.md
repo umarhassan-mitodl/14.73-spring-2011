@@ -4,8 +4,6 @@ description: 'This resource contains information regarding Pop quiz #6 questions
 file: /courses/14-73-the-challenge-of-world-poverty-spring-2011/02861b70128922a1c65291f4fcd2054f_MIT14_73S11_quiz6_quest.pdf
 file_size: 87438
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

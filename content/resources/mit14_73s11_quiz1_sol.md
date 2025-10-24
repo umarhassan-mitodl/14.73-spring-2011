@@ -4,8 +4,6 @@ description: 'This resource contains information regarding Pop quiz #1 solutions
 file: /courses/14-73-the-challenge-of-world-poverty-spring-2011/eeae01554070725cef7330fe59a4f093_MIT14_73S11_quiz1_sol.pdf
 file_size: 116890
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
