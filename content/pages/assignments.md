@@ -147,4 +147,4 @@ Political Economy
 
 {{< tableclose >}}
 
-See sample essays from students on the [_Poor Economics_](http://pooreconomics.com/teaching-book?page=4) website.
+See sample essays from students on the {{% resource_link "a5bf65e2-a0ee-4fbd-9a4f-62fb93c59c51" "_Poor Economics_" %}} website.
